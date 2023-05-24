@@ -22,6 +22,11 @@
 <br></div></p>
 
 ## GitHub Estatísticas
+<div align="center">
+  <a href="https://github.com/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=7Klim&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Klim&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
 https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg
 <!---usar jájá--->

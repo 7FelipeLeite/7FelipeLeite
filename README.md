@@ -16,7 +16,7 @@
   <body>
     <input type="checkbox" id="HTML" name="HTML" checked>
     <input type="checkbox" id="CSS" name="CSS">
-    <input type="checkbox" id="JavaScript" name="JavaScript">
+    <input type="checkbox" id="JS" name="JS">
   </body>
 </html>
 ```

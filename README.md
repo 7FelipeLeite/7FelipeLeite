@@ -13,6 +13,11 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Felipe Leite de Meira</title>
   </head>
+  <body>
+    <input type="checkbox" id="HTML" name="HTML" checked>
+    <input type="checkbox" id="CSS" name="CSS">
+    <input type="checkbox" id="JavaScript" name="JavaScript">
+  </body>
 </html>
 ```
 ## Sobre mim:👩🏼‍💻

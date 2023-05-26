@@ -14,9 +14,11 @@
       <title>Felipe Leite de Meira</title>
   </head>
   <body>
+    <h1>FrontEnd Knowledge</h1>
     <input type="checkbox" id="HTML" name="HTML" checked>
     <input type="checkbox" id="CSS" name="CSS">
-    <input type="checkbox" id="JS" name="JS">
+    <input type="checkbox" id="JS" name="JavaScript">
+    <input type="checkbox" id="TS" name="TypeScript">
   </body>
 </html>
 ```

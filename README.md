@@ -25,7 +25,7 @@
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
-  Sou técnico em Analise e desenvolvimento de sistemas pela <strong>ETEC (2020)</strong> após conclusão do curso, resolvi aprimorar meu conhecimento ingressando na faculdade de Analise de desenolvimento de Sistemas pela <strong>UNINOVE</strong> visando ser um desenvolvedor Full Stack.
+  Sou técnico em Analise e desenvolvimento de sistemas pela <strong>ETEC (2020)</strong> após conclusão do curso, resolvi aprimorar meu conhecimento ingressando na faculdade de Analise de desenolvimento de Sistemas pela <strong>UNINOVE</strong> visando ser um desenvolvedor Front End.
 <br></div></p>
 
 ## GitHub Estatísticas

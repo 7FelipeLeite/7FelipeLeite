@@ -1,7 +1,5 @@
 ### Olá 👋
 
-![Profile views](https://gpvc.arturio.dev/7klim)
-
 ### Bem-vindo(a)!
 
 ```HTML
@@ -16,9 +14,11 @@
   <body>
     <h1>FrontEnd Knowledge</h1>
     <input type="checkbox" id="HTML" name="HTML" checked>
-    <input type="checkbox" id="CSS" name="CSS">
+    <input type="checkbox" id="CSS" name="CSS" checked>
     <input type="checkbox" id="JS" name="JavaScript">
     <input type="checkbox" id="TS" name="TypeScript">
+    <input type="checkbox" id="RCT" name="React">
+    <input type="checkbox" id="NJS" name="Node JS">
   </body>
 </html>
 ```

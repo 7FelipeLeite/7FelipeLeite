@@ -15,7 +15,7 @@
     <h1>FrontEnd Knowledge</h1>
     <input type="checkbox" id="HTML" name="HTML" checked>
     <input type="checkbox" id="CSS" name="CSS" checked>
-    <input type="checkbox" id="JS" name="JavaScript">
+    <input type="checkbox" id="JS" name="JavaScript" checked>
     <input type="checkbox" id="TS" name="TypeScript">
     <input type="checkbox" id="RCT" name="React">
     <input type="checkbox" id="NJS" name="Node JS">
@@ -42,6 +42,9 @@
   </a>
   <a href="https://github.com/7FelipeLeite/html-css">
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://github.com/7FelipeLeite/curso-js">
+  <img align="center" alt="felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
   <img align="center" alt="felipe-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="felipe-PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">

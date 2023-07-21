@@ -18,7 +18,6 @@
     <input type="checkbox" id="JS" name="JavaScript" checked>
     <input type="checkbox" id="TS" name="TypeScript">
     <input type="checkbox" id="RCT" name="React">
-    <input type="checkbox" id="NJS" name="Node JS">
   </body>
 </html>
 ```

@@ -42,8 +42,7 @@
   <a href="https://github.com/7FelipeLeite/html-css">
   <img align="center" alt="felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://github.com/7FelipeLeite/curso-js">
-  <img align="center" alt="felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <a href="https://github.com/7FelipeLeite/curso-js"><img align="center" alt="felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
   <img align="center" alt="felipe-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="felipe-TW" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">

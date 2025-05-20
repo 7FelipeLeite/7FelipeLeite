@@ -4,9 +4,9 @@
 
 ```HTML
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
-      <link rel="student" href="felipe.png" type="nerd/gamer">
+      <link rel="student" href="felipe.svg">
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Felipe Leite de Meira</title>
@@ -15,9 +15,10 @@
     <h1>FrontEnd Knowledge</h1>
     <input type="checkbox" id="HTML" name="HTML" checked>
     <input type="checkbox" id="CSS" name="CSS" checked>
+    <input type="checkbox" id="twCSS" name="tailWindCSS" checked>
     <input type="checkbox" id="JS" name="JavaScript" checked>
     <input type="checkbox" id="TS" name="TypeScript">
-    <input type="checkbox" id="RCT" name="React">
+    <input type="checkbox" id="ang" name="Angular">
   </body>
 </html>
 ```
@@ -45,7 +46,7 @@
   <img align="center" alt="felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
   <img align="center" alt="felipe-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="felipe-PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="felipe-TW" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   </div>
   
 

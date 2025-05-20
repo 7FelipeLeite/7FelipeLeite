@@ -17,6 +17,7 @@
     <input type="checkbox" id="CSS" name="CSS" checked>
     <input type="checkbox" id="twCSS" name="tailWindCSS" checked>
     <input type="checkbox" id="JS" name="JavaScript" checked>
+    <input type="checkbox" id="mySQL" name="mySQL" checked>
     <input type="checkbox" id="TS" name="TypeScript">
     <input type="checkbox" id="ang" name="Angular">
   </body>
@@ -41,6 +42,7 @@
   <a href="https://github.com/7FelipeLeite/curso-js"><img align="center" alt="felipe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
   <img align="center" alt="felipe-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="felipe-TW" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="felipe-TW" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql.eps">
   </div>
   
 

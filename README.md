@@ -29,11 +29,6 @@
   Sou técnico em Analise e desenvolvimento de sistemas pela <strong>ETEC (2020)</strong> após conclusão do curso, resolvi aprimorar meu conhecimento ingressando na faculdade de Analise de desenolvimento de Sistemas pela <strong>UNINOVE</strong> visando ser um desenvolvedor Front End.
 <br></div></p>
 
-## GitHub Estatísticas
-<div align="center">
-  <a href="https://github.com/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7FelipeLeite&layout=compact&langs_count=7&theme=dark">
-</div>
 
 ## Linguagens e Ferramentas:
 <div style="display: inline_block" align="center"><br>

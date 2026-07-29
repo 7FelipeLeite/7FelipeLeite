@@ -2,27 +2,6 @@
 
 ### Bem-vindo(a)!
 
-```HTML
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-      <link rel="student" href="felipe.svg">
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Felipe Leite de Meira</title>
-  </head>
-  <body>
-    <h1>FrontEnd Knowledge</h1>
-    <input type="checkbox" id="HTML" name="HTML" checked>
-    <input type="checkbox" id="CSS" name="CSS" checked>
-    <input type="checkbox" id="twCSS" name="tailWindCSS" checked>
-    <input type="checkbox" id="JS" name="JavaScript" checked>
-    <input type="checkbox" id="mySQL" name="mySQL" checked>
-    <input type="checkbox" id="TS" name="TypeScript">
-    <input type="checkbox" id="ang" name="Angular">
-  </body>
-</html>
-```
 ## Sobre mim:👩🏼‍💻
 <p><div align='justify'>
 
